@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 from mininet.topo import Topo
 
 class MyTopo( Topo ):
